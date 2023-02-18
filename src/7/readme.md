@@ -5,17 +5,19 @@
 
 #### Install
 
++ babel core for compiler
 ```
-yarn add @babel/core @babel/cli @babel/preset-env @babel/polyfill
+npm install @babel/core @babel/cli @babel/preset-env @babel/polyfill
 ```
-> babel core for compiler
 
++ node.js run babel
 ```
-yarn add @babel/node
+npm install @babel/node
 ```
-> babel for node.js
 
 #### Preset
+
++ in packages.json setting babel
 
 ```
 "babel": {
@@ -24,4 +26,3 @@ yarn add @babel/node
   ]
 }
 ```
-> in packages

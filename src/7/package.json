@@ -13,12 +13,11 @@
   },
   "author": "jacky.chen",
   "license": "MIT",
-  "devDependencies": {
-    "@babel/cli": "^7.1.5",
-    "@babel/core": "^7.1.6",
-    "@babel/node": "^7.0.0",
-    "@babel/polyfill": "^7.0.0",
-    "@babel/preset-env": "^7.1.6"
-  },
-  "dependencies": {}
+  "dependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/node": "^7.20.7",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.20.2"
+  }
 }
