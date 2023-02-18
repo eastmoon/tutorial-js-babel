@@ -7,12 +7,12 @@
 
 + babel core for compiler
 ```
-npm install @babel/core @babel/cli @babel/preset-env @babel/polyfill
+npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/polyfill
 ```
 
 + node.js run babel
 ```
-npm install @babel/node
+npm install--save-dev  @babel/node
 ```
 
 ### Setting
